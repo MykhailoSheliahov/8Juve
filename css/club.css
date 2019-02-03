@@ -1,0 +1,36 @@
+
+#club{
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+#club>h1{
+    font-size: 6.0rem;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+#club p{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#club img{
+    width: 100%;
+
+}
+
+@media all and (max-width: 900px){
+    iframe{
+        height: 400px;
+    }
+}
+@media all and (max-width: 600px){
+    iframe{
+        height: 350px;
+    }
+}
+@media all and (max-width: 400px){
+    iframe{
+        height: 300px;
+    }
+}

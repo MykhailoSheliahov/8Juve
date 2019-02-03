@@ -1,0 +1,18 @@
+
+#contentContactUs{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: 0 auto;
+}
+#contentContactUs>h1{
+    font-size: 6.0rem;
+    text-align: center;
+    padding-bottom: 20px;
+}
+#contentContactUs div img{
+    width: 100%;
+}
+#contentContactUs p{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
